@@ -1,0 +1,7 @@
+C:\(svn azure)\SimioCloud\Source\UserExtensions\DataSharing\obj\Debug\DataSharing.csproj.CoreCompileInputs.cache
+C:\Users\dan_h\Documents\SimioUserExtensions\DataSharing.dll
+C:\Users\dan_h\Documents\SimioUserExtensions\DataSharing.pdb
+C:\(svn azure)\SimioCloud\Source\UserExtensions\DataSharing\obj\Debug\DataSharing.csproj.CopyComplete
+C:\(svn azure)\SimioCloud\Source\UserExtensions\DataSharing\obj\Debug\DataSharing.dll
+C:\(svn azure)\SimioCloud\Source\UserExtensions\DataSharing\obj\Debug\DataSharing.pdb
+C:\(svn azure)\SimioCloud\Source\UserExtensions\DataSharing\obj\Debug\DataSharing.csprojResolveAssemblyReference.cache
