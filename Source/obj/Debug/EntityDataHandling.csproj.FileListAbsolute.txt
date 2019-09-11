@@ -17,3 +17,8 @@ E:\(svn azure)\SimioCloud\API\EntityDataHandling\Source\obj\Debug\EntityDataShar
 E:\Users\dan_h\Documents\SimioUserExtensions\EntityDataSharing.dll
 E:\Users\dan_h\Documents\SimioUserExtensions\EntityDataSharing.pdb
 E:\(svn azure)\SimioCloud\API\EntityDataHandling\Source\obj\Debug\EntityDataHandling.csproj.CopyComplete
+E:\(svn azure)\SimioCloud\Github\EntityDataHandling\Source\obj\Debug\EntityDataHandling.csprojAssemblyReference.cache
+E:\(svn azure)\SimioCloud\Github\EntityDataHandling\Source\obj\Debug\EntityDataHandling.csproj.CoreCompileInputs.cache
+E:\(svn azure)\SimioCloud\Github\EntityDataHandling\Source\obj\Debug\EntityDataHandling.csproj.CopyComplete
+E:\(svn azure)\SimioCloud\Github\EntityDataHandling\Source\obj\Debug\EntityDataSharing.dll
+E:\(svn azure)\SimioCloud\Github\EntityDataHandling\Source\obj\Debug\EntityDataSharing.pdb
