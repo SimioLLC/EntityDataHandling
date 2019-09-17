@@ -16,6 +16,9 @@ namespace EntityDataSharing
     {
         public int DataKey { get; set; }
 
+        /// <summary>
+        /// The time when the store is written.
+        /// </summary>
         public string FormattedStoreTime { get; set; }
 
         public DateTimeOffset CreationTime { get; set; }
